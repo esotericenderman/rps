@@ -21,3 +21,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
 
 You should have received a copy of the [GNU General Public License](./LICENSE) along with this program. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
+
+## Topics
+
+game gamedev games web game-development websites webapp rock-paper-scissors web-game rps game-dev rockpaperscissor web-game-programming web-game-development rock-paper-scissors-js web-game-dev website-game rock-paper-scissors-gui website-games rock-paper-scissors-responsive
