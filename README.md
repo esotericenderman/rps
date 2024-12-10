@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+[![Project Status: Completed](./images/badges/status.svg)](./)
 
 > A simple rock paper scissors game made using HTML, CSS, and JS.
 
