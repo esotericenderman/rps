@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# RPS
 
 [![Project Status: Completed](./images/badges/status.svg)](./)
 
